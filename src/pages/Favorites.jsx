@@ -6,14 +6,15 @@ import AppContext from "../context";
 import Info from "../components/info";
 
 const Favorites = () => {
-  const {favoriteItems, onAddToFavorite, onAddToCart} = useContext(AppContext); //Context API
+  const { favoriteItems, onAddToFavorite, onAddToCart } =
+    useContext(AppContext); //Context API
   return (
     <div className="content p-40">
       <div className="d-flex align-center mb-40">
         <Link to="/">
           <img
             className="cu-p mr-20"
-            src="/img/close-favorite.svg"
+            src="img/close-favorite.svg"
             alt="On main"
             width={35}
             height={35}
@@ -34,7 +35,12 @@ const Favorites = () => {
           ))}
         </div>
       ) : (
-		<Info width="70" height="70" image="/img/nothing-in-favorites.png" description="Nothing added to favorites"/>
+        <Info
+          width="70"
+          height="70"
+          image="img/nothing-in-favorites.png"
+          description="Nothing added to favorites"
+        />
       )}
     </div>
   );

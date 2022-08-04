@@ -48,7 +48,7 @@ const Card = ({
           {onFavorite && ( //чтобы не было кнопки добавить в Избранное
             <div className={styles.favoriteItems} onClick={addToFavorite}>
               <img
-                src={isFavorite ? "/img/heart-on.svg" : "./img/heart-off.svg"}
+                src={isFavorite ? "./img/heart-on.svg" : "./img/heart-off.svg"}
                 width={31}
                 height={31}
                 alt="Add to favoriteItems"

@@ -40,15 +40,15 @@ const Home = ({
             <img
               onClick={onClearSearchInput}
               className="inputClear"
-              src="/img/x.svg"
+              src="img/clear.svg"
               alt="Clear"
             />
           )}
-          <img src="/img/search.svg" alt="Search" />
+          <img src="img/search.svg" alt="search" />
           <input
             onChange={onChangeSearchInput}
             value={searchValue} //чтобы импут был контролируемым, чтобы например добавить в импут кнопку стереть, т.е. привязываемся к этому value
-            placeholder="Search..."
+            placeholder="search..."
           />
         </div>
       </div>

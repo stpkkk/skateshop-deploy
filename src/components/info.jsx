@@ -15,7 +15,7 @@ const Info = ({ width, height, title, image, description }) => {
       <h2>{title}</h2>
       <p className="opacity-6">{description}</p>
       <button onClick={onCloseСart} className="greenButton">
-        <img src="/img/arrow-left.svg" alt="Back" />
+        <img src="img/arrow-left.svg" alt="Back" />
         Back
       </button>
     </div>

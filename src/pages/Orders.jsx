@@ -29,7 +29,7 @@ const Orders = () => {
         <Link to="/">
           <img
             className="cu-p mr-20"
-            src="/img/close-favorite.svg"
+            src="img/close-favorite.svg"
             alt="On main"
             width={35}
             height={35}

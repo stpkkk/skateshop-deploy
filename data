@@ -4,55 +4,55 @@
     "parentId": 1,
     "title": "BAKER BRAND LOGO DECK",
     "price": 99,
-    "imageUrl": "/img/Decks/1.jpg"
+    "imageUrl": "img/Decks/1.jpg"
   },
   {
     "id": 2,
     "parentId": 2,
     "title": "BAKER JF BRAND NAME NOISE DECK",
     "price": 100,
-    "imageUrl": "/img/Decks/2.jpg"
+    "imageUrl": "img/Decks/2.jpg"
   },
   {
     "id": 3,
     "parentId": 3,
     "title": "BAKER JF BRAND NAME NOISE DECK Pink",
     "price": 95,
-    "imageUrl": "/img/Decks/3.jpg"
+    "imageUrl": "img/Decks/3.jpg"
   },
   {
     "id": 4,
     "parentId": 4,
     "title": "BAKER BAKED GREEN",
     "price": 110,
-    "imageUrl": "/img/Decks/4.jpg"
+    "imageUrl": "img/Decks/4.jpg"
   },
   {
     "id": 5,
     "parentId": 5,
     "title": "DEATHWISH PEDRO CREEPS DECK",
     "price": 100,
-    "imageUrl": "/img/Decks/5.jpg"
+    "imageUrl": "img/Decks/5.jpg"
   },
   {
     "id": 6,
     "parentId": 6,
     "title": "DEATHWISH TK BOOGEY MAN DECK",
     "price": 120,
-    "imageUrl": "/img/Decks/6.jpg"
+    "imageUrl": "img/Decks/6.jpg"
   },
   {
     "id": 7,
     "parentId": 7,
     "title": " DEATHWISH JU DYSTOPIA DECK",
     "price": 100,
-    "imageUrl": "/img/Decks/7.jpg"
+    "imageUrl": "img/Decks/7.jpg"
   },
   {
     "id": 8,
     "parentId": 8,
     "title": "DEATHWISH DEATHSPRAY GLOW DECK",
     "price": 100,
-    "imageUrl": "/img/Decks/8.jpg"
+    "imageUrl": "img/Decks/8.jpg"
   }
 ]
